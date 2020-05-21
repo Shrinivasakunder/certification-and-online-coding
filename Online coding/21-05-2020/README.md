@@ -14,4 +14,13 @@ C program to construct a singly linked list by removing duplicate elements in th
 Sample output:
 Given list {1,2,2,3,3,3,4}
 Resulting list{4,3,2,1}
+# Pro6(python)
+Python program in number right angled triangle \
+sample output \
+enter the number of rows \
+5 4 3 2 1 \
+4 3 2 1 \
+3 2 1 \
+2 1 \
+1 
 
