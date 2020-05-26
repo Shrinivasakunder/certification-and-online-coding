@@ -7,4 +7,7 @@ Module-2
 Module-3
 # day-4
 Module-4
-
+# day-5
+Module-5
+# day-6
+Final Exam and completion.
