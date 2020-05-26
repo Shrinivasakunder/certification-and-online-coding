@@ -6,3 +6,7 @@ This is a Python Program to read a number n and print the number of digits in it
 This is a Python Program to read a number n and print and compute the series “1+2+…+n=”.
 # Pro4
 This is a Python Program to Check if a Number is a Palindrome.
+# Pro5
+Sub-array of the given array are start and end with same element.
+# Pro6
+The permutations of the string.
