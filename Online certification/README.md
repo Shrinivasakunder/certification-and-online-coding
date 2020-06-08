@@ -38,3 +38,7 @@ Digital marketing all modules and completion.
 Introduction to cloud and Basics
 # day-18
 Module-1
+# day-19
+Module-1 and review qsn.
+# day-20
+Module-2
