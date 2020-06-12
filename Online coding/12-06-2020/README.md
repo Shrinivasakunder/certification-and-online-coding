@@ -1,21 +1,6 @@
-# Program1
-Write a C Program to Reverse a Linked List in groups of given size.
-Test Case 1:
-If a linked listis: 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8
-The value of size k is 2
-Then the linked list looks like: 2 → 1 → 4 → 3 → 6 → 5 → 8 → 7
-
-Test Case 2:
-If a linked listis: 1 → 2 → 3 → 4 → 5 → 6 → 7 → 8
-The value of size k is 3
-Then the linked list looks like: 3 → 2 → 1 → 6 → 5 → 4 → 8 → 7
-# Program2
-Java Program which illustrates how to get column properties from ResultSet using ResultSetMetaData
-ResultSetMetaData is an object that can be used to get information about the types and properties of the columns in a ResultSet object. Below example shows how to get ResultSet column properties using ResultSetMetaData object.
-# Program3
-Python Program to Exchange the Values of Two Numbers using ^ (exclusive or operator)
-# Program4
-Python Program to Reverse a Given Number
-This is a Python Program to reverse a given number.
-Problem Description
-The program takes a number and reverses it and store it in another variable and show it
+# Pro1
+Python program to Count the Number of Vowels Present in a String using Sets Step1: Get a string Step2: find the no of occurrence of all vowels in the string using data structure set.
+# Pro2
+A magic square of order n is an arrangement of n^2 numbers, usually distinct integers, in a square, such that the n numbers in all rows, all columns, and both diagonals sum to the same constant. A magic square contains the integers from 1 to n^2.
+# Pro3
+Python program to print the pattern.
