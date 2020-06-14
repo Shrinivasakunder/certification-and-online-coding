@@ -52,3 +52,5 @@ Module-3 and review qsn.
 Module-4
 # day-25
 Modul-5 and 6
+# day-26
+Final Exam and completion.
